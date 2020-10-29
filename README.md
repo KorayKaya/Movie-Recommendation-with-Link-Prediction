@@ -18,7 +18,7 @@ review/text: I have all of the doo wop DVD's and this one is as good or better t
 1st ones. Remember once these performers are gone, we'll never get to see them again.
 Rhino did an excellent job and if you like or love doo wop and Rock n Roll you'll LOVE
 this DVD !!
------------
+
 save_objects_to_file and load_objects_from_file functions were added for objects
 graph ("<class 'networkx.classes.graph.Graph'>")
 matrix ("<class 'numpy.matrix'>")
